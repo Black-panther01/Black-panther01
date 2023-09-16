@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Black-panther01
 - 👀 I’m interested in learning more about coding 
-- 🌱 I’m currently learning Python 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning R
 - 📫 How to reach me dm 
 
 <!---
